@@ -11,8 +11,8 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://your-repository-url.git
-   cd path-to-your-repository
+   git clone [https://your-repository-url.git](https://github.com/preetam1407/Slidely-Form-Bankend.git)
+   cd move to Slidely-Form-Backend
    ```
 
 2. **Install dependencies:**
